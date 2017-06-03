@@ -1,6 +1,6 @@
 {
   "name": "es6-number",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check if a value is a number, including every 'number' type",
   "main": "index.js",
   "scripts": {
